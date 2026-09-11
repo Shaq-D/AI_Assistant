@@ -1,0 +1,16 @@
+.chat_message {
+    border-radius: 10px;
+    border: 0.4px solid #c4bcbc;
+    padding: 8px;
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(107, 107, 106);
+    padding: 6px;
+}
+
+h1 {
+    color: #000;
+    font-size: 18px;
+}
