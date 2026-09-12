@@ -8,9 +8,13 @@
     text-align: center;
     background-color: rgb(107, 107, 106);
     padding: 6px;
+    border-radius: 0;
 }
 
 h1 {
-    color: #000;
+    color: rgb(75, 172, 176);
     font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: bisque;
+
 }
